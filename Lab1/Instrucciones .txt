@@ -1,0 +1,16 @@
+Bienvenido a la calcu-frutadora
+En la Calaculadora se pueden realizar operaciones basicas matematicas.
+suma+
+rasta-
+division/
+multiplicacion *
+
+Estas operaciones estan representadas con un boton.
+En la calculadora hay dos comboBox o ventanas desplegables donde aperecen las frutas disponibles 
+y una opcion llamada otra, la cual habilita un campo de texto para ingresar alguna fruta no existente en la
+ventana desplegable.
+
+Para realizar una operacion se selecciona una fruta en cada ventana desplegable, se oprime el boton de
+operacion y luego el boton de resultado.Inmediatamente aparecera en la pantalla la accion realizada.
+Para volver a utilizarla se oprime el boton limpiar y se repite el proceso anterior.
+
